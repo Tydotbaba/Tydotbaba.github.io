@@ -1,0 +1,12 @@
+site_name: Oyedokun Temitayo
+
+site_author: Oyedokun Temitayo
+nav:
+    - Home: index.md
+    - About: about.md
+
+
+
+theme: bootstrap4
+repo_url: https://github.com/Tydotbaba/tydotbaba.github.io
+remote_branch: master
