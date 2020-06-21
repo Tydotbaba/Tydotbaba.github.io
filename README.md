@@ -14,7 +14,7 @@ I use this to track my development over time. It details my ambitions, passions,
 * MKDOCS
 	- I have used [mkdocs](https://www.mkdocs.org/) 
 * Sublime Text3
-	- My love for sublime text is `:grinning:`. Thus, I used it for all my devs.
+	- My love for sublime text is :heart_eyes:. Thus, I used it for all my devs.
 
 ## Online View
 
