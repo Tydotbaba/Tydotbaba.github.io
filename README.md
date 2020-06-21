@@ -11,8 +11,11 @@ I use this to track my development over time. It details my ambitions, passions,
 
 ## Documentaion Tools Used
 
-I have used [mkdocs]()
+* MKDOCS
+	I have used [mkdocs](https://www.mkdocs.org/) 
+* Sublime Text3
+
 
 ## Online View
 
-Th
+The repo is served using github pages and is available [here](https://tydotbaba.github.io/) for view online.

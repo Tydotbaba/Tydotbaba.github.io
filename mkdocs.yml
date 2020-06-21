@@ -5,8 +5,7 @@ nav:
     - Home: index.md
     - About: about.md
 
-
-
 theme: bootstrap4
+# theme_dir: psinder
 repo_url: https://github.com/Tydotbaba/tydotbaba.github.io
 remote_branch: master
