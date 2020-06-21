@@ -12,9 +12,9 @@ I use this to track my development over time. It details my ambitions, passions,
 ## Documentaion Tools Used
 
 * MKDOCS
-	I have used [mkdocs](https://www.mkdocs.org/) 
+	- I have used [mkdocs](https://www.mkdocs.org/) 
 * Sublime Text3
-
+	- My love for sublime text is `:grinning:`. Thus, I used it for all my devs.
 
 ## Online View
 
